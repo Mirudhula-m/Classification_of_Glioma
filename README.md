@@ -8,10 +8,9 @@ Out of these, I was responsible for Gaussian Naive Bayes. As a part of our cours
 
 <img width="393" alt="Screen Shot 2022-11-06 at 12 40 50 AM" src="https://user-images.githubusercontent.com/38470217/200154565-8654b6a0-afc7-424a-ae53-52b028d8e2a8.png">
 
-
                                     PCA results of data.
                                     
-![Final classifier evaluation](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34e54e3e-b31d-4c73-8836-4125ccb74cc8/Screen_Shot_2022-11-04_at_4.19.28_PM.png)
+<img width="364" alt="Screen Shot 2022-11-06 at 12 42 06 AM" src="https://user-images.githubusercontent.com/38470217/200154587-281ffc0f-40e0-4f36-9d2c-89522034df3e.png">
 
                                Final classifier evaluation
 
