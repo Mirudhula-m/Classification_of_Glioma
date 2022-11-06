@@ -6,18 +6,22 @@ We evaluated four different supervised classification models comprising Gaussian
 
 Out of these, I was responsible for Gaussian Naive Bayes. As a part of our course project, this was implemented from scratch without the use of any ML packages. The results were validated against results of SVM that was run using the scikit package.
 
-<img width="393" alt="Screen Shot 2022-11-06 at 12 40 50 AM" src="https://user-images.githubusercontent.com/38470217/200154565-8654b6a0-afc7-424a-ae53-52b028d8e2a8.png">
+
 
                                     PCA results of data.
                                     
-<img width="364" alt="Screen Shot 2022-11-06 at 12 42 06 AM" src="https://user-images.githubusercontent.com/38470217/200154587-281ffc0f-40e0-4f36-9d2c-89522034df3e.png">
+<img width="393" alt="Screen Shot 2022-11-06 at 12 40 50 AM" src="https://user-images.githubusercontent.com/38470217/200154565-8654b6a0-afc7-424a-ae53-52b028d8e2a8.png">
+
 
                                Final classifier evaluation
+
+<img width="364" alt="Screen Shot 2022-11-06 at 12 42 06 AM" src="https://user-images.githubusercontent.com/38470217/200154587-281ffc0f-40e0-4f36-9d2c-89522034df3e.png">
+
 
 We performed a comparative study for the performance of each classifier against the data and found SVM to be performing the best.
 
 
-# Team Members
+## Team Members
 
 Mirudhula Mukundan, Aditi Sarathy, Ketaki Ghatole, Arnav Gupta
 
