@@ -6,7 +6,8 @@ We evaluated four different supervised classification models comprising Gaussian
 
 Out of these, I was responsible for Gaussian Naive Bayes. As a part of our course project, this was implemented from scratch without the use of any ML packages. The results were validated against results of SVM that was run using the scikit package.
 
-![PCA results of data.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f926989-3952-4dee-889c-b675e5f01425/Screen_Shot_2022-11-04_at_4.19.04_PM.png)
+<img width="393" alt="Screen Shot 2022-11-06 at 12 40 50 AM" src="https://user-images.githubusercontent.com/38470217/200154565-8654b6a0-afc7-424a-ae53-52b028d8e2a8.png">
+
 
                                     PCA results of data.
                                     
