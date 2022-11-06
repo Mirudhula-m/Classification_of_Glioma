@@ -4,7 +4,7 @@ Glioma is a common malignancy of the brain. It is the leading cause of death due
 
 We evaluated four different supervised classification models comprising Gaussian Naive Bayes, K-nearest neighbor, Logistic Regression and Support Vector Machines. This was conducted on Gene Expression data from The Cancer Genome Atlas (TCGA). The models were trained to classify between normal and glioma samples and further classify the subtypes of glioma. Five fold cross validation was used to evaluate our models for extracted gene expression data.
 
-Out of these, I was responsible for Gaussian Naive Bayes. As a part of our course project, this was implemented from scratch without the use of any ML packages. The results were validated against results of SVM that was run using the scikit package.
+Out of these, I was responsible for Gaussian Naive Bayes. As a part of our course project, this was implemented from scratch without the use of any ML packages. The codes were confirmed to be behaving properly by implementing a scikit version of Gaussian Naive Bayes and SVM. Additionally, a 5-fold cross validation was conducted to validate the results.
 
 
 
